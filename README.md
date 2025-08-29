@@ -134,8 +134,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Jenkins](https://www.jenkins.io/) for CI/CD automation.
 
 ---
-
-## Contact
-For questions or feedback, reach out to the project maintainer:
-- GitHub: [devnfo](https://github.com/devnfo)
-- Email: your_email@gmail.com (replace with your actual email)
